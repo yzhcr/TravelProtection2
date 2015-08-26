@@ -14,6 +14,8 @@ public class MainActivity extends Activity {
         
         Button b=(Button)findViewById(R.id.button1);
         b.setBackgroundColor(0x77FF0000);
+        
+        int i=0;
     }
 
 }
